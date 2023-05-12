@@ -100,7 +100,7 @@ header {
 .menuitem span {
     display: block;
     width: 100%;@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
+}
     /*--------------------------------------------Colors*/
     
     .bg-color-name-title {
@@ -126,7 +126,7 @@ header {
     /*--------------------------------------------Heading*/
     
     header {
-        margin: 0;
+        margin: 0 ;
     }
     
     .heading {
@@ -223,14 +223,12 @@ header {
         color: #fafafa;
         min-height: 120px;
         margin: 0;
-    }
-    
-    padding-top: 5px;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 2px;
+        padding-top: 5px;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 300;
+        letter-spacing: 2px;
 }
 
 /*--------------------------------------------Hover.css*/
